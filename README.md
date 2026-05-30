@@ -36,15 +36,14 @@ A fully responsive and animated personal portfolio website built using **HTML, C
 ## 📸 Preview
 
 ![Portfolio Preview](Images/portfolio-preview.png)
-```
+
 
 ---
 
 ## 🚀 Live Demo
 
-🌍 Website:
+🌐 [Visit Portfolio Website](https://srinaina2007-sudo.github.io/CodeAlpha_Portfolio/)
 
-https://srinaina2007-sudo.github.io/CodeAlpha_Portfolio/
 
 ---
 
